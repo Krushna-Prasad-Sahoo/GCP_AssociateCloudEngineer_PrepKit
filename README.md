@@ -20,3 +20,14 @@
       - Establishing billing budgets and alerts
       - Setting up billing exports
     - #### 1.3 Installing and configuring the command line interface (CLI), specifically the Cloud SDK (e.g., setting the default project).
+Section 2. Planning and configuring a cloud solution
+2.1 Planning and estimating Google Cloud product use using the Pricing Calculator
+
+2.2 Planning and configuring compute resources. Considerations include:
+
+Selecting appropriate compute choices for a given workload (e.g., Compute Engine, Google Kubernetes Engine, Cloud Run, Cloud Functions)
+Using preemptible VMs and custom machine types as appropriate
+2.3 Planning and configuring data storage options. Considerations include:
+
+Product choice (e.g., Cloud SQL, BigQuery, Firestore, Cloud Spanner, Cloud Bigtable)
+Choosing storage options (e.g., Zonal persistent disk, Regional balanced persistent disk, Standard, Nearline, Coldline, Archive)
