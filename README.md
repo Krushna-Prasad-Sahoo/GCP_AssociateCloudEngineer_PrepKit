@@ -32,38 +32,31 @@
 
 - ### Section 3. Deploying and implementing a cloud solution
     - #### 3.1 Deploying and implementing Compute Engine resources. Tasks include:
-
-Launching a compute instance using Cloud Console and Cloud SDK (gcloud) (e.g., assign disks, availability policy, SSH keys)
-Creating an autoscaled managed instance group using an instance template
-Generating/uploading a custom SSH key for instances
-Installing and configuring the Cloud Monitoring and Logging Agent
-Assessing compute quotas and requesting increases
+      - Launching a compute instance using Cloud Console and Cloud SDK (gcloud) (e.g., assign disks, availability policy, SSH keys)
+      - Creating an autoscaled managed instance group using an instance template
+      - Generating/uploading a custom SSH key for instances
+      - Installing and configuring the Cloud Monitoring and Logging Agent
+      - Assessing compute quotas and requesting increases
     - #### 3.2 Deploying and implementing Google Kubernetes Engine resources. Tasks include:
-
-Installing and configuring the command line interface (CLI) for Kubernetes (kubectl)
-Deploying a Google Kubernetes Engine cluster with different configurations including AutoPilot, regional clusters, private clusters, etc.
-Deploying a containerized application to Google Kubernetes Engine
-Configuring Google Kubernetes Engine monitoring and logging
+      - Installing and configuring the command line interface (CLI) for Kubernetes (kubectl)
+      - Deploying a Google Kubernetes Engine cluster with different configurations including AutoPilot, regional clusters, private clusters, etc.
+      - Deploying a containerized application to Google Kubernetes Engine
+      - Configuring Google Kubernetes Engine monitoring and logging
     - #### 3.3 Deploying and implementing Cloud Run and Cloud Functions resources. Tasks include, where applicable:
-
-Deploying an application and updating scaling configuration, versions, and traffic splitting
-Deploying an application that receives Google Cloud events (e.g., Pub/Sub events, Cloud Storage object change notification events)
+      - Deploying an application and updating scaling configuration, versions, and traffic splitting
+      - Deploying an application that receives Google Cloud events (e.g., Pub/Sub events, Cloud Storage object change notification events)
     - #### 3.4 Deploying and implementing data solutions. Tasks include:
-
-Initializing data systems with products (e.g., Cloud SQL, Firestore, BigQuery, Cloud Spanner, Pub/Sub, Cloud Bigtable, Dataproc, Dataflow, Cloud Storage)
-Loading data (e.g., command line upload, API transfer, import/export, load data from Cloud Storage, streaming data to Pub/Sub)
+      - Initializing data systems with products (e.g., Cloud SQL, Firestore, BigQuery, Cloud Spanner, Pub/Sub, Cloud Bigtable, Dataproc, Dataflow, Cloud Storage)
+      - Loading data (e.g., command line upload, API transfer, import/export, load data from Cloud Storage, streaming data to Pub/Sub)
     - #### 3.5 Deploying and implementing networking resources. Tasks include:
-
-Creating a VPC with subnets (e.g., custom-mode VPC, shared VPC)
-Launching a Compute Engine instance with custom network configuration (e.g., internal-only IP address, Google private access, static external and private IP address, network tags)
-Creating ingress and egress firewall rules for a VPC (e.g., IP subnets, network tags, service accounts)
-Creating a VPN between a Google VPC and an external network using Cloud VPN
-Creating a load balancer to distribute application network traffic to an application (e.g., Global HTTP(S) load balancer, Global SSL Proxy load balancer, Global TCP Proxy load balancer, regional network load balancer, regional internal load balancer)
+      - Creating a VPC with subnets (e.g., custom-mode VPC, shared VPC)
+      - Launching a Compute Engine instance with custom network configuration (e.g., internal-only IP address, Google private access, static external and private IP address, network tags)
+      - Creating ingress and egress firewall rules for a VPC (e.g., IP subnets, network tags, service accounts)
+      - Creating a VPN between a Google VPC and an external network using Cloud VPN
+      - Creating a load balancer to distribute application network traffic to an application (e.g., Global HTTP(S) load balancer, Global SSL Proxy load balancer, Global TCP Proxy load balancer, regional network load balancer, regional internal load balancer)
     - #### 3.6 Deploying a solution using Cloud Marketplace. Tasks include:
-
-Browsing the Cloud Marketplace catalog and viewing solution details
-Deploying a Cloud Marketplace solution
+      - Browsing the Cloud Marketplace catalog and viewing solution details
+      - Deploying a Cloud Marketplace solution
     - #### 3.7 Implementing resources via infrastructure as code. Tasks include:
-
-Building infrastructure via Cloud Foundation Toolkit templates and implementing best practices
-Installing and configuring Config Connector in Google Kubernetes Engine to create, update, delete, and secure resources.
+      - Building infrastructure via Cloud Foundation Toolkit templates and implementing best practices
+      - Installing and configuring Config Connector in Google Kubernetes Engine to create, update, delete, and secure resources.
