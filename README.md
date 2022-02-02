@@ -85,26 +85,23 @@
       - Setting scaling parameters for autoscaling instances
       - Determining whether to run Cloud Run (fully managed) or Cloud Run for Anthos
     - #### 4.4 Managing storage and database solutions. Tasks include:
-
-Managing and securing objects in and between Cloud Storage buckets
-Setting object life cycle management policies for Cloud Storage buckets
-Executing queries to retrieve data from data instances (e.g., Cloud SQL, BigQuery, Cloud Spanner, Datastore, Cloud Bigtable)
-Estimating costs of data storage resources
-Backing up and restoring database instances (e.g., Cloud SQL, Datastore)
-Reviewing job status in Dataproc, Dataflow, or BigQuery
+      - Managing and securing objects in and between Cloud Storage buckets
+      - Setting object life cycle management policies for Cloud Storage buckets
+      - Executing queries to retrieve data from data instances (e.g., Cloud SQL, BigQuery, Cloud Spanner, Datastore, Cloud Bigtable)
+      - Estimating costs of data storage resources
+      - Backing up and restoring database instances (e.g., Cloud SQL, Datastore)
+      - Reviewing job status in Dataproc, Dataflow, or BigQuery
     - #### 4.5 Managing networking resources. Tasks include:
-
-Adding a subnet to an existing VPC
-Expanding a subnet to have more IP addresses
-Reserving static external or internal IP addresses
-Working with CloudDNS, CloudNAT, Load Balancers and firewall rules
+      - Adding a subnet to an existing VPC
+      - Expanding a subnet to have more IP addresses
+      - Reserving static external or internal IP addresses
+      - Working with CloudDNS, CloudNAT, Load Balancers and firewall rules
     - #### 4.6 Monitoring and logging. Tasks include:
-
-Creating Cloud Monitoring alerts based on resource metrics
-Creating and ingesting Cloud Monitoring custom metrics (e.g., from applications or logs)
-Configuring log sinks to export logs to external systems (e.g., on-premises or BigQuery)
-Configuring log routers
-Viewing and filtering logs in Cloud Logging
-Viewing specific log message details in Cloud Logging
-Using cloud diagnostics to research an application issue (e.g., viewing Cloud Trace data, using Cloud Debug to view an application point-in-time)
-Viewing Google Cloud status
+      - Creating Cloud Monitoring alerts based on resource metrics
+      - Creating and ingesting Cloud Monitoring custom metrics (e.g., from applications or logs)
+      - Configuring log sinks to export logs to external systems (e.g., on-premises or BigQuery)
+      - Configuring log routers
+      - Viewing and filtering logs in Cloud Logging
+      - Viewing specific log message details in Cloud Logging
+      - Using cloud diagnostics to research an application issue (e.g., viewing Cloud Trace data, using Cloud Debug to view an application point-in-time)
+      - Viewing Google Cloud status
