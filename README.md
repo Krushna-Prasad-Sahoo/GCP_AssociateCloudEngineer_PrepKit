@@ -63,15 +63,14 @@
 
 - ### Section 4. Ensuring successful operation of a cloud solution
     - #### 4.1 Managing Compute Engine resources. Tasks include:
-
-Managing a single VM instance (e.g., start, stop, edit configuration, or delete an instance)
-Remotely connecting to the instance
-Attaching a GPU to a new instance and installing necessary dependencies
-Viewing current running VM inventory (instance IDs, details)
-Working with snapshots (e.g., create a snapshot from a VM, view snapshots, delete a snapshot)
-Working with images (e.g., create an image from a VM or a snapshot, view images, delete an image)
-Working with instance groups (e.g., set autoscaling parameters, assign instance template, create an instance template, remove instance group)
-Working with management interfaces (e.g., Cloud Console, Cloud Shell, Cloud SDK)
+      - Managing a single VM instance (e.g., start, stop, edit configuration, or delete an instance)
+      - Remotely connecting to the instance
+      - Attaching a GPU to a new instance and installing necessary dependencies
+      - Viewing current running VM inventory (instance IDs, details)
+      - Working with snapshots (e.g., create a snapshot from a VM, view snapshots, delete a snapshot)
+      - Working with images (e.g., create an image from a VM or a snapshot, view images, delete an image)
+      - Working with instance groups (e.g., set autoscaling parameters, assign instance template, create an instance template, remove instance group)
+      - Working with management interfaces (e.g., Cloud Console, Cloud Shell, Cloud SDK)
     - #### 4.2 Managing Google Kubernetes Engine resources. Tasks include:
 
 Viewing current running cluster inventory (nodes, pods, services)
