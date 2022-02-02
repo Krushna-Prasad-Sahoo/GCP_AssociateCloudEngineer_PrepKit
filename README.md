@@ -72,20 +72,18 @@
       - Working with instance groups (e.g., set autoscaling parameters, assign instance template, create an instance template, remove instance group)
       - Working with management interfaces (e.g., Cloud Console, Cloud Shell, Cloud SDK)
     - #### 4.2 Managing Google Kubernetes Engine resources. Tasks include:
-
-Viewing current running cluster inventory (nodes, pods, services)
-Browsing Docker images and viewing their details in the Artifact Registry
-Working with node pools (e.g., add, edit, or remove a node pool)
-Working with pods (e.g., add, edit, or remove pods)
-Working with services (e.g., add, edit, or remove a service)
-Working with stateful applications (e.g. persistent volumes, stateful sets)
-Managing Horizontal and Vertical autoscaling configurations
-Working with management interfaces (e.g., Cloud Console, Cloud Shell, Cloud SDK, kubectl)
+      - Viewing current running cluster inventory (nodes, pods, services)
+      - Browsing Docker images and viewing their details in the Artifact Registry
+      - Working with node pools (e.g., add, edit, or remove a node pool)
+      - Working with pods (e.g., add, edit, or remove pods)
+      - Working with services (e.g., add, edit, or remove a service)
+      - Working with stateful applications (e.g. persistent volumes, stateful sets)
+      - Managing Horizontal and Vertical autoscaling configurations
+      - Working with management interfaces (e.g., Cloud Console, Cloud Shell, Cloud SDK, kubectl)
     - #### 4.3 Managing Cloud Run resources. Tasks include:
-
-Adjusting application traffic-splitting parameters
-Setting scaling parameters for autoscaling instances
-Determining whether to run Cloud Run (fully managed) or Cloud Run for Anthos
+      - Adjusting application traffic-splitting parameters
+      - Setting scaling parameters for autoscaling instances
+      - Determining whether to run Cloud Run (fully managed) or Cloud Run for Anthos
     - #### 4.4 Managing storage and database solutions. Tasks include:
 
 Managing and securing objects in and between Cloud Storage buckets
