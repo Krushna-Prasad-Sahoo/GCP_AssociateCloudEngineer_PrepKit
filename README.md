@@ -105,3 +105,17 @@
       - Viewing specific log message details in Cloud Logging
       - Using cloud diagnostics to research an application issue (e.g., viewing Cloud Trace data, using Cloud Debug to view an application point-in-time)
       - Viewing Google Cloud status
+
+- ### Section 5. Configuring access and security
+    - #### 5.1 Managing Identity and Access Management (IAM). Tasks include:
+      - Viewing IAM policies
+      - Creating IAM policies
+      - Managing the various role types and defining custom IAM roles (e.g., primitive, predefined and custom)
+    - #### 5.2 Managing service accounts. Tasks include:
+      - Creating service accounts
+      - Using service accounts in IAM policies with minimum permissions
+      - Assigning service accounts to resources
+      - Managing IAM of a service account 
+      - Managing service account impersonation
+      - Creating and managing short-lived service account credentials
+    - #### 5.3 Viewing audit logs
