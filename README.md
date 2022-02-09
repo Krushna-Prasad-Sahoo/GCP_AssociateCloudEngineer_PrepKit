@@ -123,3 +123,16 @@
       - Managing service account impersonation
       - Creating and managing short-lived service account credentials
     - #### 5.3 Viewing audit logs
+
+
+
+
+
+
+
+
+
+<br />
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Krushna-Prasad-Sahoo/GCP_AssociateCloudEngineer_PrepKit?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Krushna-Prasad-Sahoo/GCP_AssociateCloudEngineer_PrepKit?style=for-the-badge)
