@@ -124,6 +124,11 @@
       - Creating and managing short-lived service account credentials
     - #### 5.3 Viewing audit logs
 
+---
+#### You can go through these courses on Udemy, they have covered the topics extremely well. 
+1. [GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
+2. [GCP Associate Cloud Engineer Certification : Google Cloud](https://www.udemy.com/course/google-cloud-gcp-associate-cloud-engineer-certification/)
+
 
 
 
