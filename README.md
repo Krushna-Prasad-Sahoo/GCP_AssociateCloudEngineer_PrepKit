@@ -132,8 +132,10 @@
 ---
 ### Other Resources :
 
-Cheat Sheet : https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97
-Visual Note : https://github.com/priyankavergadia/GCPSketchnote
+| Resource Name | Address |
+| ------------- |:-------------:|
+| GCP Cheat Sheet  | [:link:](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97) |
+| GCP Visual Notes  | [:link:](https://github.com/priyankavergadia/GCPSketchnote) |
 
 
 
