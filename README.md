@@ -138,6 +138,7 @@
 | 02 | GCP Visual Notes  | [:link:](https://github.com/priyankavergadia/GCPSketchnote) |
 | 03 | GCP Online Notes | [:link:](https://github.com/aceisScope/GCP_ACE_Notes/blob/master/README.md) |
 | 04 | GCP Tips/Tricks | [:link:](https://github.com/murchie85/GCP-Associate-Cloud-Engineer#readme) |
+| 05 | GCP All Resources | [:link:](https://github.com/kibablu/associate-cloud-engineer/blob/master/README.md) |
 
 
 
